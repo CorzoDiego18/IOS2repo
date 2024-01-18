@@ -27,3 +27,4 @@ func findSum(arrayNum: [Int], targetSum: Int) -> [Int]{
 
 print (findSum(arrayNum: array, targetSum: 10))
 
+a
